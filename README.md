@@ -19,4 +19,4 @@ Repository contains work done so far as a part of the project.
 ## Paper-1 Implementation - 
 
 ## ResNet101
-![image] (https://neurohive.io/wp-content/uploads/2019/01/resnet-architectures-34-101.png)
+ ! [image] (https://neurohive.io/wp-content/uploads/2019/01/resnet-architectures-34-101.png)
