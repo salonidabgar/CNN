@@ -19,4 +19,4 @@ Repository contains work done so far as a part of the project.
 ## Paper-1 Implementation - 
 
 ## ResNet101
-![image] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kaggle.com%2Fpytorch%2Fresnet101%2Fcode&psig=AOvVaw3eGw--EJ0cOeZ4q6G9aD96&ust=1626205193203000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCIDOjcak3vECFQAAAAAdAAAAABBL)
+![image] (https://neurohive.io/wp-content/uploads/2019/01/resnet-architectures-34-101.png)
